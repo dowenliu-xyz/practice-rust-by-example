@@ -12,4 +12,4 @@ pub fn indirect_access() {
     private_function();
 }
 
-// rustc --crate-type=lib 11-01-lib.rs
+// rustc --crate-type=lib --crate-name=rary 11-01-lib.rs
